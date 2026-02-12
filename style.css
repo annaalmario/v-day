@@ -141,8 +141,9 @@ h1 {
 
 #tease-toast {
     margin-top: 14px;
+    font-family: 'Nunito', sans-serif;
     font-size: 1rem;
-    color: #d63384;
+    color: #8E132C;
     font-weight: 700;
     font-style: italic;
     opacity: 0;
